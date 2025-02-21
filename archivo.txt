@@ -1,2 +1,3 @@
 Hola Git
-esta es la primera linea
+esta se ha corregido el bug linea
+Otro cambio
